@@ -1,0 +1,19 @@
+{
+  "name": "vendor",
+  "authors": [
+    "fiwhy@mail.ru"
+  ],
+  "description": "Test project",
+  "main": "bower",
+  "moduleType": [],
+  "keywords": [
+    "Bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "fine-uploader": "~5.4.1",
+    "fileapi": "FileAPI#~2.0.17"
+  }
+}
